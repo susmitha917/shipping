@@ -1,7 +1,7 @@
 
 #Build
 
-FROM maven as build
+FROM maven AS build
 
 WORKDIR /opt/shipping
 
